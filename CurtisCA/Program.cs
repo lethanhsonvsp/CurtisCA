@@ -1,9 +1,8 @@
-﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
-using CANOpen.Interfaces;
+﻿using CANOpen.Interfaces;
 using CANOpen.Models;
 using CANOpen.Services;
+
+namespace CurtisCA;
 
 class Program
 {
