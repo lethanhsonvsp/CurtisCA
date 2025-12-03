@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CANOpen/CANOpen.csproj" />
+  <Project Path="CurtisCA/CurtisCA.csproj" />
+</Solution>
